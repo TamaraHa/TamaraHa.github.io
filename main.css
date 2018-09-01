@@ -1,5 +1,10 @@
 h1{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #ffffff;
+    color: #426493;
 
-    color: #426493
+}
 
+body{
+    font-family: "Courier New", Courier, monospace;
 }
