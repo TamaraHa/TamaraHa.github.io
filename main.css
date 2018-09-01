@@ -7,5 +7,9 @@ h1{
 
 body{
     font-family: "Courier New", Courier, monospace;
+}
+
+.color{
+    font-weight: bold;
     color: #cceedd;
 }
