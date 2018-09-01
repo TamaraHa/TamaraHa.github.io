@@ -1,15 +1,12 @@
 h1{
-    font-family: Arial, Helvetica, sans-serif;
-
-    color: #426493;
+    font-family: Georgia, serif;
+    color: #404050;
+    text-align: center;
+    padding-top: 25px;
 
 }
 
 body{
-    font-family: "Courier New", Courier, monospace;
-}
-
-.color{
-    font-weight: bold;
-    color: #cceedd;
+    font-family: Georgia, serif;
+    background-color: #cceedd;
 }
